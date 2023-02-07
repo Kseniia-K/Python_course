@@ -367,3 +367,6 @@
 # print(digit3)
 # print(digit4)
 # print(digit5)
+
+# num = int(input()) - 1
+# print((num // 4) + 1)
